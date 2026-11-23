@@ -1,0 +1,3 @@
+ID,Date Raised,Risk Description (If... then...),Category,Likelihood (1-5),Impact (1-5),Score,Owner,Response Strategy (Avoid/Reduce/Transfer/Accept),Response Actions,Trigger,Status,Last Reviewed
+R-001,,"If the client is late providing content, then the build may start late",Stakeholder,3,3,9,,Reduce,"Request content early; prepare temporary placeholders",Content not received by agreed date,Open,
+R-002,,"If equipment delivery is delayed, then the ready date may slip",Procurement,2,4,8,,Reduce,"Confirm delivery dates weekly; identify work that can proceed meanwhile",Supplier date change,Open,

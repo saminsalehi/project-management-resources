@@ -1,0 +1,7 @@
+Deliverable / Activity,Project Manager,Sponsor / Owner,Designer,Builder / Developer,Content Writer,Notes
+Define goal and success criteria,R,A,C,C,I,Exactly one A per row
+Approve scope,R,A,C,C,I,
+Content,I,A,C,I,R,
+Design,C,A,R,C,I,
+Build,C,I,C,R,I,"A = accountable; must be exactly one"
+Testing and acceptance,R,A,C,R,I,

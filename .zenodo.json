@@ -2,11 +2,30 @@
   "title": "Project Management Resources by Samin Salehi, PMP",
   "upload_type": "lesson",
   "description": "Practical project management guides, checklists and templates for new project managers, project coordinators and PMP candidates, adapted from the Project Manager Land YouTube channel by Samin Salehi, a PMP-certified Project Manager in Toronto, Canada. Written adaptations were drafted with AI assistance and reviewed against the original videos.",
-  "creators": [{"name": "Salehi, Samin", "affiliation": "Project Manager Land"}],
-  "license": "cc-by-4.0",
-  "keywords": ["project management", "PMP", "construction project management", "risk management", "stakeholder management", "project planning"],
-  "related_identifiers": [
-    {"identifier": "https://www.youtube.com/channel/UCYvrKyS3qh8A0xY3yD5rUVA", "relation": "isDerivedFrom", "resource_type": "lesson"}
+  "creators": [
+    {
+      "name": "Salehi, Samin",
+      "affiliation": "Project Manager Land",
+      "orcid": "0009-0005-4143-2816"
+    }
   ],
-  "language": "eng"
+  "license": "cc-by-4.0",
+  "keywords": [
+    "project management",
+    "PMP",
+    "construction project management",
+    "risk management",
+    "stakeholder management",
+    "project planning"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://www.youtube.com/channel/UCYvrKyS3qh8A0xY3yD5rUVA",
+      "relation": "isDerivedFrom",
+      "resource_type": "lesson"
+    }
+  ],
+  "language": "eng",
+  "version": "1.0.0",
+  "publication_date": "2026-11-24"
 }

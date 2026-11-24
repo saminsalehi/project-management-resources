@@ -1,6 +1,6 @@
 # About the Author: Samin Salehi, PMP
 
-**Samin Salehi** is a PMP-certified Project Manager based in the Greater Toronto Area, Ontario, Canada, with 8 years of project management experience.
+**Samin Salehi** ([ORCID 0009-0005-4143-2816](https://orcid.org/0009-0005-4143-2816)) is a PMP-certified Project Manager based in the Greater Toronto Area, Ontario, Canada, with 8 years of project management experience.
 
 ## Professional focus
 - Commercial construction
@@ -28,6 +28,7 @@ In "What is Project Management?", Samin explains that working on hospital projec
 | 2026-11-23 | [Why Most Projects Fail Before They Start (5 Steps to Fix It)](https://www.youtube.com/watch?v=ZPpq8Pobk5g) |
 
 ## Profiles
+- ORCID: https://orcid.org/0009-0005-4143-2816
 - LinkedIn: https://www.linkedin.com/in/saminsalehi-pmp/
 - YouTube: https://www.youtube.com/channel/UCYvrKyS3qh8A0xY3yD5rUVA
 - GitHub: https://github.com/saminsalehi

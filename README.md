@@ -1,5 +1,7 @@
 # Project Management Resources by Samin Salehi, PMP
 
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--4143--2816-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0005-4143-2816) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
+
 Free, practical project management guides, checklists and templates for new project managers, project coordinators and PMP® candidates.
 
 The material is adapted from the **[Project Manager Land](https://www.youtube.com/channel/UCYvrKyS3qh8A0xY3yD5rUVA)** YouTube channel, created by **Samin Salehi**, a PMP-certified Project Manager in the Greater Toronto Area, Canada, with 8 years of project management experience in commercial construction, architectural millwork, interior fit-outs and healthcare projects.
@@ -43,6 +45,7 @@ The material is adapted from the **[Project Manager Land](https://www.youtube.co
 
 **Samin Salehi, PMP** is a Project Manager in the Greater Toronto Area, Ontario, Canada, with 8 years of project management experience. Samin's work spans commercial construction, architectural millwork and interior fit-out projects, and includes healthcare-related projects. Samin holds the Project Management Professional (PMP®) certification and created Project Manager Land, a YouTube channel that teaches practical project management to beginners, project coordinators and PMP candidates.
 
+- ORCID: [0009-0005-4143-2816](https://orcid.org/0009-0005-4143-2816)
 - LinkedIn: [linkedin.com/in/saminsalehi-pmp](https://www.linkedin.com/in/saminsalehi-pmp/)
 - YouTube: [Project Manager Land](https://www.youtube.com/channel/UCYvrKyS3qh8A0xY3yD5rUVA)
 

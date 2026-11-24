@@ -1,6 +1,6 @@
 # Risk vs. Issue vs. Change: A Practical Guide
 
-*By Samin Salehi, PMP · Builds on the examples in [Guide 1](01-what-is-project-management.md) and [Guide 2](02-five-project-management-basics.md)*
+*By Samin Salehi, PMP ([ORCID](https://orcid.org/0009-0005-4143-2816)) · Builds on the examples in [Guide 1](01-what-is-project-management.md) and [Guide 2](02-five-project-management-basics.md)*
 
 New project managers often mix up three things that need different handling.
 

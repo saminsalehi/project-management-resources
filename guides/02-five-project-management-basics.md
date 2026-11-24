@@ -1,6 +1,6 @@
 # The Five Project Management Basics
 
-*By Samin Salehi, PMP · Adapted from the Project Manager Land video [PMP Exam Prep: Project Management Essentials](https://www.youtube.com/watch?v=Kqo0o0_QQKU) (Oct 2026)*
+*By Samin Salehi, PMP ([ORCID](https://orcid.org/0009-0005-4143-2816)) · Adapted from the Project Manager Land video [PMP Exam Prep: Project Management Essentials](https://www.youtube.com/watch?v=Kqo0o0_QQKU) (Oct 2026)*
 
 A project can have a plan, a team and a schedule and still end up late, over budget or delivering the wrong result. Good project management is more than keeping people busy. You need to know what the project must deliver, what work comes first, who makes decisions, and what to do when something changes.
 

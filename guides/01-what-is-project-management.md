@@ -1,6 +1,6 @@
 # What Is Project Management? Projects, Project Managers and Handling Change
 
-*By Samin Salehi, PMP · Adapted from the Project Manager Land video [What is Project Management? | Explained in 7 Minutes](https://www.youtube.com/watch?v=Tn8yOIKh4zc) (Oct 2026)*
+*By Samin Salehi, PMP ([ORCID](https://orcid.org/0009-0005-4143-2816)) · Adapted from the Project Manager Land video [What is Project Management? | Explained in 7 Minutes](https://www.youtube.com/watch?v=Tn8yOIKh4zc) (Oct 2026)*
 
 > **Why can a project fall behind even when everyone is busy doing their part?**
 > Often the problem lies in the gaps *between* tasks: the people, timing and decisions that have to come together.

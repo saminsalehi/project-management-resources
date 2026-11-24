@@ -1,6 +1,6 @@
 # Interior Fit-Out and Millwork Coordination Checklist
 
-*Samin Salehi, PMP · Project Manager Land*
+*Samin Salehi, PMP ([ORCID](https://orcid.org/0009-0005-4143-2816)) · Project Manager Land*
 
 > General industry practice for coordinating architectural millwork within commercial interior fit-outs. It is a starting point only. Always follow your contract documents, specifications, and the standards that apply in your jurisdiction.
 

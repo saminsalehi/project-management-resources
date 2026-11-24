@@ -1,6 +1,6 @@
 # Why Projects Fail Before They Start: A Map of Core PM Concepts
 
-*By Samin Salehi, PMP · Companion notes for the Project Manager Land video [Why Most Projects Fail Before They Start (5 Steps to Fix It)](https://www.youtube.com/watch?v=ZPpq8Pobk5g) (Nov 2026)*
+*By Samin Salehi, PMP ([ORCID](https://orcid.org/0009-0005-4143-2816)) · Companion notes for the Project Manager Land video [Why Most Projects Fail Before They Start (5 Steps to Fix It)](https://www.youtube.com/watch?v=ZPpq8Pobk5g) (Nov 2026)*
 
 > **Note:** these notes follow the video's chapter outline. The explanations are standard project management practice written for this repository, not a transcript. Watch the video for Samin's own explanation.
 

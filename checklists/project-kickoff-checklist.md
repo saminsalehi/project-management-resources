@@ -1,6 +1,6 @@
 # Project Kickoff Checklist
 
-*Samin Salehi, PMP · Project Manager Land · Based on [The Five Project Management Basics](../guides/02-five-project-management-basics.md)*
+*Samin Salehi, PMP ([ORCID](https://orcid.org/0009-0005-4143-2816)) · Project Manager Land · Based on [The Five Project Management Basics](../guides/02-five-project-management-basics.md)*
 
 Run through this list before work begins. Each unchecked box is a gap that could stall the project later.
 

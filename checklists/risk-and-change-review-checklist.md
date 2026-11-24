@@ -1,6 +1,6 @@
 # Risk and Change Review Checklist
 
-*Samin Salehi, PMP · Project Manager Land · Based on [Risk vs. Issue vs. Change](../guides/04-risk-issue-and-change.md)*
+*Samin Salehi, PMP ([ORCID](https://orcid.org/0009-0005-4143-2816)) · Project Manager Land · Based on [Risk vs. Issue vs. Change](../guides/04-risk-issue-and-change.md)*
 
 Use this in your weekly project review.
 

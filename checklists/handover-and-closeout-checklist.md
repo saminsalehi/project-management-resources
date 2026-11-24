@@ -1,6 +1,6 @@
 # Handover and Closeout Checklist
 
-*Samin Salehi, PMP · Project Manager Land · Based on [What Is Project Management?](../guides/01-what-is-project-management.md)*
+*Samin Salehi, PMP ([ORCID](https://orcid.org/0009-0005-4143-2816)) · Project Manager Land · Based on [What Is Project Management?](../guides/01-what-is-project-management.md)*
 
 "Done" means the result is ready for the people who will use it, not just that the work stopped.
 

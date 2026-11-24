@@ -20,6 +20,14 @@ keywords:
   - stakeholder management
   - project planning
 license: CC-BY-4.0
+doi: "10.5281/zenodo.24490626"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24490626"
+    description: "Concept DOI (all versions)"
+  - type: doi
+    value: "10.5281/zenodo.24490627"
+    description: "Version 1.0.0"
 repository-code: "https://github.com/saminsalehi/project-management-resources"
 url: "https://www.youtube.com/@ProjectManagerLand"
 date-released: "2026-11-24"

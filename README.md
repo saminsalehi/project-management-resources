@@ -1,6 +1,6 @@
 # Project Management Resources by Samin Salehi, PMP
 
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--4143--2816-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0005-4143-2816) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24490626.svg)](https://doi.org/10.5281/zenodo.24490626) [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--4143--2816-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0005-4143-2816) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 
 Free, practical project management guides, checklists and templates for new project managers, project coordinators and PMP® candidates.
 
@@ -59,8 +59,13 @@ The ideas, examples and teaching approach come from Samin Salehi's published Pro
 
 The content is licensed under [Creative Commons Attribution 4.0 (CC BY 4.0)](LICENSE). You may use, share and adapt it, including at work, as long as you credit **Samin Salehi, Project Manager Land** and link back here.
 
-## Citation
+## How to cite
 
-GitHub's "Cite this repository" button uses [CITATION.cff](CITATION.cff).
+Salehi, S. (2026). *Project Management Resources by Samin Salehi, PMP* (Version 1.0.0) [Lesson]. Zenodo. https://doi.org/10.5281/zenodo.24490626
+
+- **All versions (concept DOI):** [10.5281/zenodo.24490626](https://doi.org/10.5281/zenodo.24490626)
+- **v1.0.0:** [10.5281/zenodo.24490627](https://doi.org/10.5281/zenodo.24490627)
+- Zenodo record: https://zenodo.org/records/24490627
+- GitHub's "Cite this repository" button uses [CITATION.cff](CITATION.cff).
 
 *PMP® and PMBOK® are registered marks of the Project Management Institute, Inc. This repository is not affiliated with or endorsed by PMI.*

@@ -27,6 +27,9 @@ In "What is Project Management?", Samin explains that working on hospital projec
 | 2026-11-05 | [Short: Good project management is more than building a schedule](https://www.youtube.com/shorts/CcHzclCh-3A) |
 | 2026-11-23 | [Why Most Projects Fail Before They Start (5 Steps to Fix It)](https://www.youtube.com/watch?v=ZPpq8Pobk5g) |
 
+## Publications
+- Salehi, S. (2026). *Project Management Resources by Samin Salehi, PMP* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.24490626
+
 ## Profiles
 - ORCID: https://orcid.org/0009-0005-4143-2816
 - LinkedIn: https://www.linkedin.com/in/saminsalehi-pmp/

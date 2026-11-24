@@ -30,5 +30,5 @@ In "What is Project Management?", Samin explains that working on hospital projec
 ## Profiles
 - ORCID: https://orcid.org/0009-0005-4143-2816
 - LinkedIn: https://www.linkedin.com/in/saminsalehi-pmp/
-- YouTube: https://www.youtube.com/channel/UCYvrKyS3qh8A0xY3yD5rUVA
+- YouTube: https://www.youtube.com/@ProjectManagerLand
 - GitHub: https://github.com/saminsalehi

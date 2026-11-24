@@ -4,7 +4,7 @@
 
 Free, practical project management guides, checklists and templates for new project managers, project coordinators and PMP® candidates.
 
-The material is adapted from the **[Project Manager Land](https://www.youtube.com/channel/UCYvrKyS3qh8A0xY3yD5rUVA)** YouTube channel, created by **Samin Salehi**, a PMP-certified Project Manager in the Greater Toronto Area, Canada, with 8 years of project management experience in commercial construction, architectural millwork, interior fit-outs and healthcare projects.
+The material is adapted from the **[Project Manager Land](https://www.youtube.com/@ProjectManagerLand)** YouTube channel, created by **Samin Salehi**, a PMP-certified Project Manager in the Greater Toronto Area, Canada, with 8 years of project management experience in commercial construction, architectural millwork, interior fit-outs and healthcare projects.
 
 > Make project management easy to understand, practical and useful in the real world.
 
@@ -47,7 +47,7 @@ The material is adapted from the **[Project Manager Land](https://www.youtube.co
 
 - ORCID: [0009-0005-4143-2816](https://orcid.org/0009-0005-4143-2816)
 - LinkedIn: [linkedin.com/in/saminsalehi-pmp](https://www.linkedin.com/in/saminsalehi-pmp/)
-- YouTube: [Project Manager Land](https://www.youtube.com/channel/UCYvrKyS3qh8A0xY3yD5rUVA)
+- YouTube: [Project Manager Land](https://www.youtube.com/@ProjectManagerLand)
 
 Full bio: [AUTHOR.md](AUTHOR.md)
 
